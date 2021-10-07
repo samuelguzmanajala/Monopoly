@@ -1,0 +1,7 @@
+organization=jorshuabr
+projectKey=MonopolyStaticVerification_ultimate
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.23304
+dashboardUrl=https://sonarcloud.io/dashboard?id=MonopolyStaticVerification_ultimate
+ceTaskId=AXv6FD097VpLGqm9dlfJ
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXv6FD097VpLGqm9dlfJ

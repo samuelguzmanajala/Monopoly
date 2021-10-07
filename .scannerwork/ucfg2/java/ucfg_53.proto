@@ -1,0 +1,48 @@
+
+Gedu.ncsu.monopoly.Player#getPropertyNumberForColor(Ljava/lang/String;)I_
+SC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/Monopoly3/edu/ncsu/monopoly/Player.javaã ã(&"3*ã
+2_
+SC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/Monopoly3/edu/ncsu/monopoly/Player.javaé
+ é(π∂
+_
+SC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/Monopoly3/edu/ncsu/monopoly/Player.javaé
+ é(	
+%2int"java.lang.Integer#intValue()I*
+
+numberjava.lang.Integer2
+intValue()"i
+_
+SC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/Monopoly3/edu/ncsu/monopoly/Player.javaé é(
+""*â
+3_
+SC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/Monopoly3/edu/ncsu/monopoly/Player.javaå å('¥
+±
+_
+SC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/Monopoly3/edu/ncsu/monopoly/Player.javaå å('
+%0java.util.Hashtable"__id*-*+
+edu.ncsu.monopoly.Player"
+colorGroupsø
+º
+_
+SC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/Monopoly3/edu/ncsu/monopoly/Player.javaå å(1
+%1java.lang.Object"__mapGet*
+
+%0java.util.Hashtable*
+
+namejava.lang.String°
+û
+_
+SC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/Monopoly3/edu/ncsu/monopoly/Player.javaå å(2
+numberjava.lang.Integer"__id*
+
+%1java.lang.Object*
+2
+1*œ
+1_
+SC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/Monopoly3/edu/ncsu/monopoly/Player.javaê	 ê(
+"i
+_
+SC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/Monopoly3/edu/ncsu/monopoly/Player.javaê ê(
+"":
+namejava.lang.StringB
+edu.ncsu.monopoly.Player

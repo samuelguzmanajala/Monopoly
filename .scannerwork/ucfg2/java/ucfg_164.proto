@@ -1,0 +1,20 @@
+
+@edu.ncsu.monopoly.gui.PlayerPanel#isGetOutOfJailButtonEnabled()Zh
+\C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/Monopoly3/edu/ncsu/monopoly/gui/PlayerPanel.java¦ ¦(."1*ø
+1h
+\C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/Monopoly3/edu/ncsu/monopoly/gui/PlayerPanel.java§ §(Ê
+Ç
+h
+\C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/Monopoly3/edu/ncsu/monopoly/gui/PlayerPanel.java§ §(
+%0javax.swing.JButton"__id*:*8#
+!edu.ncsu.monopoly.gui.PlayerPanel"
+btnGetOutOfJailÇÄ
+h
+\C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/Monopoly3/edu/ncsu/monopoly/gui/PlayerPanel.java§ §(*
+%1boolean"java.awt.Component#isEnabled()Z*
+
+%0javax.swing.JButton2isEnabled()"r
+h
+\C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/Monopoly3/edu/ncsu/monopoly/gui/PlayerPanel.java§ §(+
+""B%#
+!edu.ncsu.monopoly.gui.PlayerPanel

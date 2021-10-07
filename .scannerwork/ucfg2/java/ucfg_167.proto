@@ -1,0 +1,21 @@
+
+9edu.ncsu.monopoly.gui.PlayerPanel#isTradeButtonEnabled()Zh
+\C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/Monopoly3/edu/ncsu/monopoly/gui/PlayerPanel.java² ²('"1*ñ
+1h
+\C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/Monopoly3/edu/ncsu/monopoly/gui/PlayerPanel.java³ ³(Ã
+À
+h
+\C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/Monopoly3/edu/ncsu/monopoly/gui/PlayerPanel.java³ ³(
+%0javax.swing.JButton"__id*3*1#
+!edu.ncsu.monopoly.gui.PlayerPanel"
+
+btnTradeÇÄ
+h
+\C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/Monopoly3/edu/ncsu/monopoly/gui/PlayerPanel.java³ ³(#
+%1boolean"java.awt.Component#isEnabled()Z*
+
+%0javax.swing.JButton2isEnabled()"r
+h
+\C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/Monopoly3/edu/ncsu/monopoly/gui/PlayerPanel.java³ ³($
+""B%#
+!edu.ncsu.monopoly.gui.PlayerPanel
