@@ -4,10 +4,12 @@ public interface IOwnable {
 
 	String getName();
 
-	Player getProprietary();
+	AbstractPlayer getProprietary();
 
 	void setProprietary(Player owner);
 
 	String toString();
+
+	void setName(String name);
 
 }

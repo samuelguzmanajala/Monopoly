@@ -169,14 +169,14 @@ public class GameMaster {
 		return (Player)players.get(index);
 	}
 	
-	public int getPlayerIndex(Player player) {
+	public int getPlayerIndex(AbstractPlayer player) {
 		return players.indexOf(player);
 	}
 
     public ArrayList getSellerList() {
         ArrayList sellers = new ArrayList();
         for (Iterator iter = players.iterator(); iter.hasNext();) {
-            Player player = (Player) iter.next();
+            AbstractPlayer player = (AbstractPlayer) iter.next();
             if(player != getCurrentPlayer()) sellers.add(player);
         }
         return sellers;

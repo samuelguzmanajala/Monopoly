@@ -73,7 +73,7 @@ public class GUITradeDialog extends JDialog implements TradeDialog {
                 }
                 IOwnable cell = (IOwnable)cboProperties.getSelectedItem();
                 if(cell == null) return;
-                Player player = (Player)cboSellers.getSelectedItem();
+                AbstractPlayer player = (AbstractPlayer)cboSellers.getSelectedItem();
                 Player currentPlayer = GameMaster.instance().getCurrentPlayer();
                 if(currentPlayer.getMoney() > amount) { 
 	                deal = new TradeDeal();
@@ -91,7 +91,7 @@ public class GUITradeDialog extends JDialog implements TradeDialog {
     private void buildSellersCombo() {
         List sellers = GameMaster.instance().getSellerList();
         for (Iterator iter = sellers.iterator(); iter.hasNext();) {
-            Player player = (Player) iter.next();
+            AbstractPlayer player = (AbstractPlayer) iter.next();
             cboSellers.addItem(player);
         }
         if(sellers.size() > 0) {

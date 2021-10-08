@@ -11,7 +11,7 @@ public abstract class Cell implements IOwnable {
 	}
 
 	@Override
-	public Player getProprietary() {
+	public AbstractPlayer getProprietary() {
 		return proprietary;
 	}
 	
@@ -21,7 +21,8 @@ public abstract class Cell implements IOwnable {
 
 	public abstract void playAction();
 
-	void setName(String name) {
+	@Override
+	public void setName(String name) {
 		this.name = name;
 	}
 
