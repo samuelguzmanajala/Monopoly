@@ -11,6 +11,6 @@ public class GoCell extends Cell {
 	public void playAction() {
 	}
 	
-	void setName(String name) {
+	public void setName(String name) {
 	}
 }
